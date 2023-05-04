@@ -1,0 +1,3 @@
+[submodule "cg_course"]
+	path = cg_course
+	url = https://github.com/alexey-malov/cg-course
